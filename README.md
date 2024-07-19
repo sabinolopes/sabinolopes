@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabino-lopes/)
 
-![Sabino's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinolopes&show_icons=true&theme=github_dark)
+![Sabino's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabinolopes&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinolopes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
@@ -17,4 +17,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabinolopes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
